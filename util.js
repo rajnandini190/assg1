@@ -71,7 +71,7 @@ const ExplorerView = {
     }
 }
 
-// Action Creators
+
 function Add_Folder_Action(folderobj , parent_id){
     return {
         type : "AddFolder",
