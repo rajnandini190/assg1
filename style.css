@@ -29,7 +29,7 @@ body{
     display: none;
 }
 
-span.rotating{
+span.rotate{
     background: none;
     border: none;
     cursor: pointer;
